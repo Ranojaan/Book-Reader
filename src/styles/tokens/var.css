@@ -1,0 +1,38 @@
+:root {
+
+    /** Base colors   */
+    --base-primary-color: #EB763C;
+
+    --base-secondary-color-1: #27A857;
+    --base-secondary-color-2: #1AA928;
+
+    --base-text-color: #fff;
+    --base-unSelected-menu-color: #ABB5BA; 
+
+    --base-card-text-color: #434D56;	
+    --base-card-normal-text-color: #8D96A8;
+    
+    --base-book-name-color: #333333;
+    --base-book-author-color: #8A97A4;
+    --base-book-time-color: #8998A9;
+
+
+
+    /** Typography    */  
+
+    --font-body: 16px;
+
+
+    --font-button: 14px;
+
+
+    --font-family: "Nunito", sans-serif;
+
+    --font-weight-100: 100;
+    --font-weight-300: 300;
+    --font-weight-400: 400;
+    --font-weight-500: 500;
+    --font-weight-700: 700;
+    --font-weight-900: 900; 
+    
+}
